@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Kaynan Ribeiro
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Kaynan ribeiro da Silveira, tenho 18 anos e sou natural de Guaribas cidade no Sul do Piaui. Concluí o ensino médio no Ceti Paulo Freire, com o curso técnico em análise e desenolvimento de sistemas. Atualmente, estou cursando Engenharia de Software. Sou apaixonado por tecnologia e sou um entusiasta por coisas novas, tecnológicas e por aprendizado constante e diário.
 
@@ -8,7 +8,7 @@ Me chamo Kaynan ribeiro da Silveira, tenho 18 anos e sou natural de Guaribas cid
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            title="Instagram" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
