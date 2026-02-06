@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo "[Kaynan ribeiro da Silveira](https:kaynan-ribeiro.vercel.app)", tenho 18 anos e sou natural de Guaribas cidade no Sul do Piaui. Concluí o ensino médio no Ceti Paulo Freire, com o curso técnico em análise e desenolvimento de sistemas. Atualmente, estou cursando Engenharia de Software no "[ICEV](https://www.somosicev.com/?utm_medium=185751511613&utm_campaign=23048536706&utm_source=GGads&utm_term=g&utm_content=icev&gad_source=1&gad_campaignid=23048536706&gbraid=0AAAAACoRqe9wg7f3m4_5ZSB4UFvexpF-I&gclid=CjwKCAiAv5bMBhAIEiwAqP9GuMYvKzu4GmS7Oa9893SpGbqQy6koMO5zsYa7SNXoYe1Vp24Qoz-T_RoCw0IQAvD_BwE)" de Teresina, capital do Piaui. Sou apaixonado por tecnologia e sou um entusiasta por coisas novas, tecnológicas e por aprendizado constante e diário.
+Me chamo "[Kaynan ribeiro da Silveira](https:kaynan-ribeiro.vercel.app)", tenho 18 anos e sou natural de Guaribas cidade no Sul do Piaui. Concluí o ensino médio no Ceti Paulo Freire, com o curso técnico em análise e desenolvimento de sistemas. Atualmente, estou cursando Engenharia de Software no "[ICEV](https://www.somosicev.com/?utm_medium=185751511613&utm_campaign=23048536706&utm_source=GGads&utm_term=g&utm_content=icev&gad_source=1&gad_campaignid=23048536706&gbraid=0AAAAACoRqe9wg7f3m4_5ZSB4UFvexpF-I&gclid=CjwKCAiAv5bMBhAIEiwAqP9GuMYvKzu4GmS7Oa9893SpGbqQy6koMO5zsYa7SNXoYe1Vp24Qoz-T_RoCw0IQAvD_BwE)" de Teresina, capital do Piaui. Sou apaixonado por tecnologia e sou um entusiasta por coisas novas, descobertas e por aprendizado constante e diário.
 
 <p align="left">
     <a href="https://www.instagram.com/kaynan_ribeiro.17/" target="_blank">
