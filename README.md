@@ -2,35 +2,35 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Kaynan ribeiro da Silveira, tenho 18 anos e sou natural de Guaribas cidade no Sul do Piaui. Concluí o ensino médio no Ceti Paulo Freire, com o curso técnico em análise e desenolvimento de sistemas. Atualmente, estou cursando Engenharia de Software. Sou apaixonado por tecnologia e sou um entusiasta por coisas novas, tecnológicas e por aprendizado constante e diário.
+Me chamo "[Kaynan ribeiro da Silveira](https:kaynan-ribeiro.vercel.app)", tenho 18 anos e sou natural de Guaribas cidade no Sul do Piaui. Concluí o ensino médio no Ceti Paulo Freire, com o curso técnico em análise e desenolvimento de sistemas. Atualmente, estou cursando Engenharia de Software no "[ICEV](https://www.somosicev.com/?utm_medium=185751511613&utm_campaign=23048536706&utm_source=GGads&utm_term=g&utm_content=icev&gad_source=1&gad_campaignid=23048536706&gbraid=0AAAAACoRqe9wg7f3m4_5ZSB4UFvexpF-I&gclid=CjwKCAiAv5bMBhAIEiwAqP9GuMYvKzu4GmS7Oa9893SpGbqQy6koMO5zsYa7SNXoYe1Vp24Qoz-T_RoCw0IQAvD_BwE)" de Teresina, capital do Piaui. Sou apaixonado por tecnologia e sou um entusiasta por coisas novas, tecnológicas e por aprendizado constante e diário.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.instagram.com/kaynan_ribeiro.17/" target="_blank">
         <img 
-            alt="youtube subscribers" 
+            alt="Instagram" 
             title="Instagram" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.linkedin.com/in/kaynan-ribeiro-da-silveira-568699337/" target="_blank">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-informe%20seu%20texto?color=%230A66C2&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=095293"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://wa.me/5589981366611" target="_blank">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Whatsapp" 
+            title="Whatsapp" 
+            src="https://custom-icon-badges.demolab.com/badge/WhatsApp-Conversar?color=25D366&logo=whatsapp&logoColor=white&style=for-the-badge&labelColor=1EBE5D"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Kaynnans" target="_blankk">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="GitHub" 
+            title="GitHub" 
+            src="https://custom-icon-badges.demolab.com/badge/GitHub-GitHub?color=555555&labelColor=333333&style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
 </p>
@@ -159,11 +159,11 @@ Me chamo Kaynan ribeiro da Silveira, tenho 18 anos e sou natural de Guaribas cid
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=Kaynnans&show_icons=true&theme=tokyonight&v=1"
   />
 
 <img 
